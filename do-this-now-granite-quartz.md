@@ -770,4 +770,1660 @@ Use this checklist for EVERY location page you create:
 - [ ] **6-8 H2 headers** with keywords
 - [ ] At least one H2 includes location name
 - [ ] Headers are descriptive and scannable
-- [ ]
+- [ ] Headers follow logical hierarchy (H1 > H2 > H3)
+
+#### Meta Tags
+- [ ] **Meta Title:** 55-60 characters, includes primary keyword + location
+- [ ] **Meta Description:** 150-160 characters, compelling with CTA
+- [ ] **Meta Description** includes phone number
+- [ ] **URL slug** is clean: `/service-location` (lowercase, hyphens)
+- [ ] **Canonical tag** points to self (avoid duplicates)
+
+#### Images
+- [ ] **5-8 high-quality images** per page
+- [ ] All images **optimized** (compressed to under 200KB each)
+- [ ] **Alt text** on every image with keywords
+  - Example: "Black Galaxy granite countertops installed in Sandton kitchen"
+- [ ] **File names** descriptive with keywords
+  - Good: `granite-countertops-sandton-kitchen.jpg`
+  - Bad: `IMG_1234.jpg`
+- [ ] Images are **WebP or JPEG format** (not PNG for photos)
+- [ ] At least 1 image shows **before/after** or completed project
+
+#### Internal Linking
+- [ ] **8-12 internal links** to other pages on your site
+- [ ] Link to **main granite/quartz page** at least once
+- [ ] Link to **4-6 nearby location pages** in "Service Areas" section
+- [ ] Link to **blog posts** if relevant
+- [ ] Anchor text is **descriptive**, not just "click here"
+  - Good: "granite countertops in Randburg"
+  - Bad: "click here"
+- [ ] All links **open in same tab** (not new window for internal)
+
+#### External Linking
+- [ ] **2-3 external links** to authoritative sources
+- [ ] Links to manufacturer websites (Caesarstone, Silestone)
+- [ ] Links **open in new tab** (add `target="_blank"`)
+- [ ] No broken links (test all URLs)
+
+#### Technical Elements
+- [ ] **Schema markup** added (LocalBusiness + FAQPage)
+- [ ] **Mobile-responsive** (test on phone)
+- [ ] **Page speed** under 3 seconds (use PageSpeed Insights)
+- [ ] **No duplicate content** (at least 70% unique from other pages)
+- [ ] **Contact form** or clear CTA at bottom
+- [ ] **Breadcrumbs** if your site supports them
+  - Example: Home > Services > Granite Countertops > Sandton
+
+#### Content Quality
+- [ ] **No spelling or grammar errors** (use Grammarly)
+- [ ] **Readable** - short paragraphs (2-4 sentences max)
+- [ ] **Scannable** - bullet points, numbered lists, bold text
+- [ ] **Natural tone** - not overly salesy or keyword-stuffed
+- [ ] **Accurate information** - prices, timelines, facts
+- [ ] **Updated date** mentioned if claiming "2025 Guide"
+
+---
+
+### **After Publishing:**
+
+#### Indexing
+- [ ] **Submit to Google Search Console** immediately
+- [ ] **Request indexing** via URL Inspection tool
+- [ ] **Submit to Bing Webmaster Tools**
+- [ ] **Ping indexing services** (Pingomatic, IndexNow)
+- [ ] **Check robots.txt** doesn't block the page
+- [ ] **Verify no "noindex"** tag in page source
+
+#### Social & Backlinks
+- [ ] **Share on Facebook** business page
+- [ ] **Share on LinkedIn**
+- [ ] **Post in 2-3 Facebook groups** (Johannesburg, home improvement)
+- [ ] **Tweet with hashtags** (#Johannesburg #GraniteCountertops)
+- [ ] **Add to Google My Business** as a post/update
+- [ ] **WhatsApp Status** with link
+
+#### Monitoring (Weekly)
+- [ ] **Check Google rankings** for primary keyword
+- [ ] **Monitor GSC** for impressions and clicks
+- [ ] **Track phone calls** - ask "Where did you find us?"
+- [ ] **Check for errors** in GSC Coverage report
+- [ ] **Review competitors** - are they outranking you? Why?
+
+---
+
+## 🔍 KEYWORD RESEARCH {#keyword-research}
+
+### **High-Volume Primary Keywords** (Target on Main Pages)
+
+| Keyword | Monthly Searches | Competition | Priority |
+|---------|-----------------|-------------|----------|
+| granite countertops johannesburg | 1,200 | Medium | ⭐⭐⭐⭐⭐ |
+| quartz countertops johannesburg | 900 | Medium | ⭐⭐⭐⭐⭐ |
+| granite tops johannesburg | 800 | Low | ⭐⭐⭐⭐⭐ |
+| caesarstone johannesburg | 600 | Medium | ⭐⭐⭐⭐⭐ |
+| granite countertop prices johannesburg | 500 | Low | ⭐⭐⭐⭐⭐ |
+| kitchen countertops johannesburg | 450 | Medium | ⭐⭐⭐⭐ |
+| quartz kitchen countertops | 400 | Low | ⭐⭐⭐⭐ |
+| granite vs quartz countertops | 400 | Low | ⭐⭐⭐ |
+| bathroom vanity tops johannesburg | 300 | Low | ⭐⭐⭐⭐⭐ |
+| granite prices johannesburg | 350 | Low | ⭐⭐⭐⭐⭐ |
+
+---
+
+### **Location-Specific Keywords** (Target on Location Pages)
+
+| Keyword | Monthly Searches | Competition | Create Page |
+|---------|-----------------|-------------|-------------|
+| granite countertops sandton | 200 | Low | ✅ `/granite-countertops-sandton` |
+| quartz countertops randburg | 150 | Low | ✅ `/quartz-countertops-randburg` |
+| granite tops rosebank | 100 | Very Low | ✅ `/granite-tops-rosebank` |
+| caesarstone sandton | 120 | Medium | ✅ `/caesarstone-sandton` |
+| granite countertops fourways | 90 | Low | ✅ `/granite-countertops-fourways` |
+| quartz countertops midrand | 80 | Very Low | ✅ `/quartz-countertops-midrand` |
+| granite countertops bryanston | 70 | Very Low | ✅ `/granite-countertops-bryanston` |
+| bathroom vanity sandton | 60 | Very Low | ✅ `/bathroom-vanity-sandton` |
+| granite tops centurion | 85 | Low | ✅ `/granite-tops-centurion` |
+| granite countertops pretoria | 180 | Medium | ✅ `/granite-countertops-pretoria` |
+
+---
+
+### **Long-Tail Keywords** (Use in Content, Headers, FAQs)
+
+**Buyer Intent (High Conversion):**
+- "granite countertop installers near me" (250/mo)
+- "best granite countertops johannesburg" (180/mo)
+- "cheap granite countertops johannesburg" (220/mo)
+- "granite countertop prices per metre" (200/mo)
+- "caesarstone installers johannesburg" (150/mo)
+- "quartz countertops near me" (170/mo)
+- "bathroom granite vanity tops" (140/mo)
+- "granite vs quartz which is better" (160/mo)
+
+**Informational (Blog Content):**
+- "how much do granite countertops cost" (300/mo)
+- "granite countertops pros and cons" (200/mo)
+- "how to choose granite colors" (120/mo)
+- "caesarstone vs silestone" (180/mo)
+- "granite sealing how often" (90/mo)
+- "quartz countertop maintenance" (110/mo)
+- "granite edge profiles" (80/mo)
+
+**Brand + Service:**
+- "caesarstone johannesburg prices" (140/mo)
+- "silestone suppliers johannesburg" (100/mo)
+- "compac quartz johannesburg" (60/mo)
+- "black galaxy granite johannesburg" (70/mo)
+
+---
+
+### **LSI Keywords** (Latent Semantic Indexing - Use Naturally)
+
+Include these related terms throughout your content:
+
+**For Granite:**
+- stone countertops
+- natural stone
+- granite slabs
+- granite installation
+- granite fabrication
+- granite sealing
+- granite colors
+- granite suppliers
+- stone worktops
+- solid surface counters
+
+**For Quartz:**
+- engineered stone
+- quartz surfaces
+- caesarstone counters
+- silestone installation
+- quartz fabrication
+- stone worktops
+- solid surface
+- quartz brands
+- non-porous countertops
+
+**For Services:**
+- kitchen renovation
+- countertop replacement
+- stone installation
+- countertop fabrication
+- bathroom vanities
+- kitchen remodeling
+- countertop repair
+- stone cutting
+- edge profiling
+- backsplash installation
+
+**For Locations:**
+- [location] homes
+- [location] properties
+- [location] area
+- serving [location]
+- based in [location]
+- [location] residents
+- near [landmark in location]
+
+---
+
+### **Question Keywords** (Perfect for FAQ Sections & Blog Posts)
+
+- How much do granite countertops cost in Johannesburg?
+- What is the best granite for kitchen countertops?
+- Is Caesarstone better than granite?
+- How long do granite countertops last?
+- Do quartz countertops stain?
+- What colors does Caesarstone come in?
+- How much does granite installation cost?
+- Can you put hot pots on granite?
+- How often should granite be sealed?
+- What is the difference between granite and quartz?
+- Are granite countertops worth it?
+- Which is cheaper granite or quartz?
+- How thick should granite countertops be?
+- What edge is best for granite countertops?
+- Can granite countertops be repaired?
+
+---
+
+## 🔗 INTERNAL LINKING STRATEGY {#internal-linking}
+
+Internal linking is CRITICAL for SEO. Here's your strategy:
+
+### **Linking Structure Overview**
+
+```
+Main Page: /quartz-granite (Hub)
+    ↓ Links to all location pages
+    ↓ Links to blog posts
+    
+Location Pages (Spokes)
+    ↑ Link back to main page
+    ↔ Link to nearby location pages (5-8 links)
+    ↓ Link to blog posts
+    
+Blog Posts
+    ↑ Link to main page
+    ↑ Link to relevant location pages (3-5)
+```
+
+---
+
+### **On Main Page** (/quartz-granite)
+
+**Add this section near bottom:**
+
+```markdown
+## Granite & Quartz Countertops Across Johannesburg
+
+Granite Carpentry provides professional stone installation throughout Johannesburg and surrounding areas:
+
+### Northern Suburbs
+- [Granite Countertops Sandton](/granite-countertops-sandton) - Luxury installations
+- [Quartz Countertops Randburg](/quartz-countertops-randburg) - Residential specialists
+- [Granite Tops Fourways](/granite-countertops-fourways) - New developments
+- [Granite Countertops Bryanston](/granite-countertops-bryanston) - Premium service
+
+### Central Johannesburg
+- [Granite Tops Rosebank](/granite-tops-rosebank) - Apartment renovations
+- [Caesarstone Johannesburg](/caesarstone-johannesburg) - All suburbs
+
+### Eastern Suburbs
+- [Granite Countertops Bedfordview](/granite-countertops-bedfordview)
+- [Quartz Countertops Benoni](/quartz-countertops-benoni)
+
+### Southern Suburbs
+- [Granite Countertops Johannesburg South](/granite-countertops-johannesburg-south)
+
+### Other Areas
+- [Quartz Countertops Midrand](/quartz-countertops-midrand)
+- [Granite Tops Centurion](/granite-tops-centurion)
+- [Granite Countertops Pretoria](/granite-countertops-pretoria)
+
+### Specialized Services
+- [Bathroom Vanity Tops Johannesburg](/bathroom-vanity-tops-johannesburg)
+- [Caesarstone Sandton](/caesarstone-sandton) - Brand specialists
+```
+
+**Total Internal Links on Main Page:** 15-20
+
+---
+
+### **On Each Location Page**
+
+**Section 1: Link to Main Page (Early in Content)**
+
+In introduction or "Our Services" section:
+```markdown
+Granite Carpentry is Johannesburg's trusted provider of [granite and quartz countertops](/quartz-granite), 
+with specialized expertise in the [Location] area.
+```
+
+**Section 2: Link to Nearby Locations (Near Bottom)**
+
+```markdown
+## Service Areas Near [Location]
+
+We also provide granite and quartz installation in these nearby areas:
+
+- [Nearby Location 1 Name] - [Link](/granite-countertops-location1) - 8km from [current location]
+- [Nearby Location 2 Name] - [Link](/quartz-countertops-location2) - 12km from [current location]
+- [Nearby Location 3 Name] - [Link](/bathroom-vanity-location3) - 10km from [current location]
+- [Nearby Location 4 Name] - [Link](/granite-tops-location4) - 15km from [current location]
+- [Nearby Location 5 Name] - [Link](/caesarstone-location5) - 6km from [current location]
+
+View all our [granite and quartz service areas](/quartz-granite#service-areas).
+```
+
+**Section 3: Link to Blog Posts (If Relevant)**
+
+```markdown
+**Learn More:**
+- [Granite Countertop Prices in Johannesburg 2025](/blog/granite-prices-johannesburg)
+- [Granite vs Quartz: Complete Comparison Guide](/blog/granite-vs-quartz)
+- [How to Choose Granite Colors for Your Kitchen](/blog/choose-granite-colors)
+```
+
+**Total Internal Links Per Location Page:** 10-15
+
+---
+
+### **Anchor Text Variations**
+
+Don't use the same anchor text every time. Vary it naturally:
+
+**For Sandton page, use these variations:**
+- granite countertops Sandton
+- granite countertops in Sandton
+- Sandton granite installation
+- granite services in Sandton
+- premium granite countertops in the Sandton area
+- our Sandton granite installation services
+
+**For Caesarstone page:**
+- Caesarstone Johannesburg
+- Caesarstone installations
+- Caesarstone countertops in Johannesburg
+- professional Caesarstone installation
+- Caesarstone quartz surfaces
+
+---
+
+### **Internal Linking Best Practices**
+
+✅ **DO:**
+- Use descriptive anchor text with keywords
+- Link naturally within content (not just footer/sidebar)
+- Link to most relevant pages
+- Include 8-12 internal links per page
+- Link to older pages from new pages (boosts old page rankings)
+- Use variations of anchor text
+
+❌ **DON'T:**
+- Use "click here" or "read more" as anchor text
+- Over-optimize (same exact anchor text repeatedly)
+- Link to irrelevant pages just to add links
+- Create circular link chains (Page A → B → A only)
+- Use keyword-stuffed anchor text unnaturally
+
+---
+
+## ⚙️ TECHNICAL SEO TIPS {#technical-seo}
+
+These technical optimizations will help you rank faster and higher:
+
+### **1. Page Speed Optimization**
+
+**Target:** Under 3 seconds load time on mobile
+
+**How to Achieve:**
+
+✅ **Compress Images**
+- Use TinyPNG or ImageOptim
+- Target: Under 200KB per image
+- Convert to WebP format (90% smaller than JPEG)
+- Use lazy loading for images below fold
+
+✅ **Minify Code**
+- Minify CSS and JavaScript
+- Remove unused CSS
+- Combine CSS/JS files where possible
+
+✅ **Enable Caching**
+- Browser caching: 1 year for images
+- Server-side caching if using WordPress
+
+✅ **Use a CDN**
+- Cloudflare (free plan available)
+- Speeds up delivery globally
+
+✅ **Optimize Fonts**
+- Use system fonts or limit Google Fonts to 2-3 weights
+- Use font-display: swap
+
+**Test Your Speed:**
+- Google PageSpeed Insights: https://pagespeed.web.dev/
+- GTmetrix: https://gtmetrix.com/
+
+---
+
+### **2. Mobile Optimization**
+
+**Critical:** 70%+ of searches happen on mobile!
+
+✅ **Responsive Design**
+- Test on multiple devices (iPhone, Android, tablet)
+- Use Chrome DevTools mobile simulator
+- Ensure text is readable without zooming (16px minimum)
+
+✅ **Mobile-Friendly Elements**
+- Large, tappable buttons (48px minimum)
+- Phone number as clickable link: `<a href="tel:0676014490">0676014490</a>`
+- Easy-to-fill forms (autofill enabled)
+- No horizontal scrolling
+
+✅ **Mobile Page Speed**
+- Target: Under 3 seconds on 4G
+- Prioritize above-fold content loading
+- Reduce image sizes for mobile
+
+**Test Mobile Friendliness:**
+- Google Mobile-Friendly Test: https://search.google.com/test/mobile-friendly
+
+---
+
+### **3. Schema Markup** {#schema-markup}
+
+Schema helps Google understand your content = better rankings + rich snippets
+
+#### **LocalBusiness Schema** (Add to every location page)
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Granite Carpentry - [Location]",
+  "image": "https://granitecarpentry.co.za/images/logo.jpg",
+  "@id": "https://granitecarpentry.co.za/granite-countertops-[location]",
+  "url": "https://granitecarpentry.co.za/granite-countertops-[location]",
+  "telephone": "0676014490",
+  "priceRange": "R1500-R6500",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Your Street Address",
+    "addressLocality": "[Location]",
+    "addressRegion": "Gauteng",
+    "postalCode": "2000",
+    "addressCountry": "ZA"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -26.1076,
+    "longitude": 28.0567
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/granitecarpentry",
+    "https://www.instagram.com/granitecarpentry"
+  ]
+}
+</script>
+```
+
+**Customize for each location:**
+- Change `addressLocality` to specific suburb
+- Update `latitude` and `longitude` (use Google Maps)
+- Update URL to match page
+
+---
+
+#### **FAQPage Schema** (Add to pages with FAQ sections)
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much do granite countertops cost in [Location]?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Granite countertops in [Location] range from R1,500 to R6,500 per square metre, depending on the grade and color. Standard granite costs R1,500-R2,800/m², premium granite R3,000-R4,500/m², and exotic granite R5,000-R6,500/m². Installation adds R800-R2,000/m²."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Caesarstone better than granite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both have advantages. Caesarstone is non-porous (never needs sealing), stain-resistant, and has consistent patterns. Granite is heat-resistant, more affordable (R1,500-R4,500 vs R2,800-R4,500/m²), and offers natural unique patterns. Choice depends on your priorities: low maintenance (Caesarstone) vs natural beauty and heat resistance (granite)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does granite installation take in [Location]?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Granite installation in [Location] typically takes 7-10 days from consultation to completion: Day 1: Free consultation, Day 2-3: Stone selection, Day 4: Templating, Day 5-8: Fabrication (3-5 days), Day 9: Installation, Day 10: Final inspection. Expedited service available in 5-7 days."
+      }
+    }
+  ]
+}
+</script>
+```
+
+**Benefits of Schema:**
+- Appears in Google's "People Also Ask" boxes
+- Rich snippets in search results
+- Higher click-through rates
+- Better rankings
+
+**Test Your Schema:**
+- Google Rich Results Test: https://search.google.com/test/rich-results
+
+---
+
+### **4. URL Structure**
+
+✅ **Good URL Structure:**
+- `/granite-countertops-sandton` (descriptive, keyword-rich)
+- `/quartz-countertops-randburg`
+- `/bathroom-vanity-tops-johannesburg`
+
+❌ **Bad URL Structure:**
+- `/page123` (not descriptive)
+- `/services/granite/sandton/countertops` (too deep)
+- `/Granite_Countertops_SANDTON` (uppercase, underscores)
+
+**URL Best Practices:**
+- Keep under 60 characters
+- Use hyphens (not underscores)
+- Lowercase only
+- Include primary keyword
+- Avoid dates unless time-sensitive content
+
+---
+
+### **5. Canonical Tags**
+
+Prevent duplicate content issues:
+
+```html
+<link rel="canonical" href="https://granitecarpentry.co.za/granite-countertops-sandton" />
+```
+
+**Add to every page pointing to itself**
+
+---
+
+### **6. Robots.txt**
+
+Ensure your pages are crawlable:
+
+```
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /checkout/
+
+Sitemap: https://granitecarpentry.co.za/sitemap.xml
+```
+
+**Test:** https://granitecarpentry.co.za/robots.txt
+
+---
+
+### **7. XML Sitemap**
+
+Create and submit sitemap to Google Search Console:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://granitecarpentry.co.za/quartz-granite</loc>
+    <lastmod>2025-10-31</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://granitecarpentry.co.za/granite-countertops-sandton</loc>
+    <lastmod>2025-10-31</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <!-- Add all location pages -->
+</urlset>
+```
+
+**If using WordPress:** Yoast SEO or RankMath auto-generates sitemaps
+
+---
+
+### **8. SSL Certificate (HTTPS)**
+
+**CRITICAL:** Google requires HTTPS for ranking
+
+✅ Ensure your site URL is:
+- `https://granitecarpentry.co.za` (secure)
+
+❌ Not:
+- `http://granitecarpentry.co.za` (not secure)
+
+**Check:** Look for padlock icon in browser address bar
+
+---
+
+### **9. Core Web Vitals**
+
+Google's ranking factors (measure user experience):
+
+**LCP (Largest Contentful Paint):** Under 2.5 seconds
+- Optimize hero image loading
+- Use CDN
+
+**FID (First Input Delay):** Under 100ms
+- Minimize JavaScript
+- Use browser caching
+
+**CLS (Cumulative Layout Shift):** Under 0.1
+- Set image dimensions in HTML
+- Avoid layout shifts
+
+**Check Your Score:**
+- PageSpeed Insights: https://pagespeed.web.dev/
+- Google Search Console → Core Web Vitals report
+
+---
+
+## ✍️ CONTENT WRITING GUIDELINES {#content-guidelines}
+
+Follow these rules when writing location pages:
+
+### **1. Keyword Placement**
+
+**Primary Keyword Usage:**
+- ✅ H1 tag (exact match)
+- ✅ First paragraph (within first 100 words)
+- ✅ At least 1 H2 header
+- ✅ URL slug
+- ✅ Meta title
+- ✅ Meta description
+- ✅ Alt text of first image
+- ✅ Throughout content 8-12 times (1-2% density)
+
+**Example for "granite countertops sandton":**
+- H1: "Granite Countertops in Sandton | Premium Stone Installation"
+- First paragraph: "When searching for granite countertops in Sandton..."
+- H2: "Our Granite Countertop Services in Sandton"
+- URL: `/granite-countertops-sandton`
+
+---
+
+### **2. Content Length**
+
+**Minimum:** 1,800 words  
+**Optimal:** 2,000-2,500 words  
+**Maximum:** 3,000 words (don't pad unnecessarily)
+
+**Why longer content ranks better:**
+- More keyword opportunities
+- More comprehensive (Google rewards depth)
+- More internal linking opportunities
+- Higher time-on-page (engagement signal)
+
+---
+
+### **3. Readability**
+
+**Target:** 8th-grade reading level (easy to understand)
+
+✅ **Do:**
+- Short paragraphs (2-4 sentences)
+- Short sentences (15-20 words average)
+- Use bullet points and numbered lists
+- Bold important points
+- Use subheadings every 200-300 words
+- Use transitional phrases
+
+❌ **Don't:**
+- Write long, complex sentences
+- Use jargon without explanation
+- Create walls of text
+- Use passive voice excessively
+
+**Test Readability:**
+- Hemingway Editor: http://hemingwayapp.com/
+- Target: Grade 8 or lower
+
+---
+
+### **4. Unique Content**
+
+**CRITICAL:** Each location page must be 70%+ unique
+
+**How to Make Content Unique:**
+
+**Vary Introductions (100% unique):**
+- Sandton: "Luxury homes in Sandton demand premium finishes..."
+- Randburg: "Randburg homeowners value quality and affordability..."
+- Rosebank: "Modern apartments in Rosebank require smart solutions..."
+
+**Customize Local Details:**
+- Mention specific landmarks (Sandton City, Monte Casino, Cresta Mall)
+- Reference local estates/complexes
+- Adjust pricing slightly per area
+- Use different testimonials per location
+- Vary granite color recommendations
+
+**Reword Service Descriptions:**
+- Don't copy-paste entire sections
+- Use synonyms and different phrasing
+- Rearrange order of information
+
+**Example - Kitchen Countertops Service:**
+
+Version A (Sandton):
+"Our kitchen countertop installations in Sandton cater to luxury homes requiring flawless stone work. We specialize in premium granite and Caesarstone for high-end properties."
+
+Version B (Randburg):
+"Randburg kitchen renovations benefit from our expert countertop installation services. We offer both affordable granite options and premium quartz surfaces to suit any budget."
+
+---
+
+### **5. Location-Specific Details**
+
+Include these unique elements for EACH location:
+
+✅ **Local Landmarks:**
+- Sandton: Sandton City, Nelson Mandela Square, Hyde Park Corner
+- Randburg: Cresta Mall, Northgate, Ferndale
+- Rosebank: The Zone, Rosebank Mall, Keyes Art Mile
+- Fourways: Monte Casino, Cedar Square, Dainfern
+
+✅ **Property Types:**
+- Sandton: Luxury homes, high-rise apartments, penthouses
+- Randburg: Family homes, older properties, townhouses
+- Rosebank: Modern apartments, compact spaces, lofts
+- Fourways: New estates, suburban homes, gated communities
+
+✅ **Market Insights:**
+- Sandton: Premium finishes, exotic materials popular
+- Randburg: Value-focused, standard granite bestsellers
+- Rosebank: Modern quartz preferred, space-saving designs
+- Fourways: Mix of granite islands and quartz perimeters
+
+✅ **Distance References:**
+- "8km from Sandton CBD"
+- "Near Cresta Shopping Centre"
+- "Serving Rosebank and surrounding suburbs"
+
+---
+
+### **6. Call-to-Action (CTA)**
+
+Include CTAs throughout content:
+
+**Top of Page (After Introduction):**
+"Call 0676014490 for a free quote in [Location] today."
+
+**Middle of Page (After Services Section):**
+"Ready to transform your [Location] kitchen? Contact Granite Carpentry for professional granite and quartz installation."
+
+**Bottom of Page (Main CTA):**
+"📞 Get Your FREE Quote for [Location] Granite Countertops  
+Call or WhatsApp: 0676014490  
+Visit: granitecarpentry.co.za/quartz-granite"
+
+**CTA Best Practices:**
+- Use action verbs (Call, Contact, Get, Transform, Schedule)
+- Create urgency ("Today", "Now", "Limited availability")
+- Make phone number clickable on mobile
+- Include multiple CTAs (top, middle, bottom)
+
+---
+
+### **7. Avoid Keyword Stuffing**
+
+❌ **Bad Example (Keyword Stuffing):**
+"If you're looking for granite countertops in Sandton, our granite countertops Sandton services provide the best granite countertops Sandton has to offer. We install granite countertops in Sandton daily."
+
+✅ **Good Example (Natural):**
+"Looking for granite countertops in Sandton? Granite Carpentry provides professional stone installation throughout the area, with over 60 completed projects in Sandton and surrounding suburbs."
+
+**Rule:** If it sounds unnatural when read aloud, rewrite it.
+
+---
+
+### **8. Include Social Proof**
+
+Add credibility to your content:
+
+✅ **Testimonials:**
+"The granite countertops Granite Carpentry installed in our Sandton home are stunning. Professional service from start to finish!" - Sarah M., Hyde Park
+
+✅ **Project Numbers:**
+"We've completed 50+ granite installations in the Sandton area"
+
+✅ **Guarantees:**
+"All installations backed by our 24-month workmanship warranty"
+
+✅ **Certifications/Experience:**
+"10+ years serving Johannesburg homeowners"
+"Certified Caesarstone installers"
+
+---
+
+## 📅 TIMELINE & TRACKING {#timeline}
+
+### **Week 1: Foundation**
+
+**Days 1-2:**
+- [ ] Create Sandton page (master template) - 4 hours
+- [ ] Optimize images (compress, rename, alt text) - 1 hour
+- [ ] Add schema markup - 1 hour
+- [ ] Submit to Google Search Console - 30 mins
+
+**Days 3-4:**
+- [ ] Create Caesarstone Johannesburg page - 3 hours
+- [ ] Create Randburg page - 3 hours
+- [ ] Submit both to GSC - 30 mins
+
+**Days 5-7:**
+- [ ] Create Rosebank page - 3 hours
+- [ ] Create Bathroom Vanity page - 3 hours
+- [ ] Internal linking between all pages - 1 hour
+- [ ] Share on social media (Facebook, LinkedIn) - 1 hour
+
+---
+
+### **Week 2-3: Expansion**
+
+**Days 8-14:**
+- [ ] Create 3 Tier 2 pages (Fourways, Midrand, Bryanston) - 9 hours
+- [ ] Check indexing status of Week 1 pages - 30 mins
+- [ ] Update main /quartz-granite page with location links - 1 hour
+- [ ] Submit new pages to GSC - 30 mins
+
+**Days 15-21:**
+- [ ] Create 2 more Tier 2 pages (Bathroom Vanity Sandton, Centurion) - 6 hours
+- [ ] Write 1 blog post ("Granite Prices Johannesburg 2025") - 3 hours
+- [ ] Post in 3 Facebook groups - 1 hour
+- [ ] Check GSC data - which pages are getting impressions? - 1 hour
+
+---
+
+### **Week 4: Optimization**
+
+**Days 22-28:**
+- [ ] Create 3 Tier 3 pages - 9 hours
+- [ ] Analyze top-performing pages in GSC - 1 hour
+- [ ] Optimize underperforming pages - 2 hours
+- [ ] Build backlinks (directory submissions) - 2 hours
+- [ ] Answer 5 Quora questions about granite/quartz - 2 hours
+
+---
+
+### **Month 2: Scale & Refine**
+
+**Weekly Tasks:**
+- [ ] Create 2-3 new location pages per week
+- [ ] Write 1 blog post per week
+- [ ] Check GSC rankings weekly
+- [ ] Respond to any inquiries - track source
+- [ ] Update pages based on performance data
+
+**Monthly Review:**
+- [ ] Which pages rank in top 10?
+- [ ] Which keywords are improving?
+- [ ] What's the conversion rate (calls/leads)?
+- [ ] Which locations drive most business?
+- [ ] Adjust strategy based on data
+
+---
+
+### **Tracking Metrics**
+
+**Google Search Console (Check Weekly):**
+- [ ] Total impressions (trending up?)
+- [ ] Total clicks (trending up?)
+- [ ] Average CTR (target: 5%+)
+- [ ] Average position (target: top 10)
+- [ ] Top-performing pages
+- [ ] Top-performing queries
+
+**Google Analytics (Check Weekly):**
+- [ ] Traffic to location pages
+- [ ] Bounce rate (target: under 50%)
+- [ ] Time on page (target: 2+ minutes)
+- [ ] Pages per session (target: 2+)
+- [ ] Conversion rate (form fills, calls)
+
+**Business Metrics (Track Daily):**
+- [ ] Phone calls received
+- [ ] "Where did you hear about us?" responses
+- [ ] Quotes given
+- [ ] Jobs booked
+- [ ] Revenue per page/source
+
+**Ranking Checks (Check Weekly):**
+
+Use Google (incognito mode):
+- "granite countertops sandton" - Track your position
+- "quartz countertops johannesburg" - Track your position
+- "caesarstone johannesburg" - Track your position
+
+**Expected Timeline:**
+- **Week 1-2:** Pages indexed (24-48 hours)
+- **Week 2-4:** Appearing in search results (position 20-50)
+- **Week 4-8:** Climbing rankings (position 10-20)
+- **Week 8-12:** Top 10 positions for low-competition keywords
+- **Month 3-6:** Top 5 positions, consistent leads
+
+---
+
+## 🚀 ADVANCED TIPS {#advanced-tips}
+
+### **1. Competitor Analysis**
+
+**Step 1:** Google your target keyword (incognito):
+```
+granite countertops johannesburg
+```
+
+**Step 2:** Analyze top 3 results:
+- Word count? (use WordCounter.net)
+- How many H2 headers?
+- How many images?
+- What content do they have that you don't?
+- What content do you have that they don't?
+- How many backlinks? (use Ahrefs free tool)
+
+**Step 3:** Beat them:
+- Write 20% more words
+- Add more images
+- Cover topics they missed
+- Get more/better backlinks
+
+---
+
+### **2. Featured Snippet Optimization**
+
+Featured snippets = Position 0 = massive traffic boost
+
+**How to Target Snippets:**
+
+✅ **Paragraph Snippets:**
+Answer questions directly in 40-60 words:
+
+```
+**How much do granite countertops cost in Johannesburg?**
+
+Granite countertops in Johannesburg cost R1,500 to R6,500 per square metre. 
+Standard granite ranges from R1,500-R2,800/m², premium granite costs 
+R3,000-R4,500/m², and exotic granite runs R5,000-R6,500/m². Installation 
+adds R800-R2,000/m².
+```
+
+✅ **List Snippets:**
+Create numbered or bulleted lists:
+
+```
+**Steps to Install Granite Countertops:**
+
+1. Free consultation and measurements (30 minutes)
+2. Stone selection at showroom (1-2 hours)
+3. Professional templating at property (45 minutes)
+4. Fabrication of granite slab (3-5 days)
+5. Installation and sealing (1 day)
+6. Final inspection and cleanup
+```
+
+✅ **Table Snippets:**
+Create comparison tables:
+
+| Material | Price per m² | Maintenance | Durability |
+|----------|-------------|-------------|------------|
+| Granite | R1,500-R6,500 | Sealing 1-2x/year | Very High |
+| Caesarstone | R2,800-R4,500 | None required | Very High |
+| Silestone | R3,000-R5,000 | None required | Very High |
+
+**Test for Snippet Opportunities:**
+- Search your keyword
+- If there's already a snippet, you can steal it
+- If no snippet, Google might create one from your content
+
+---
+
+### **3. Local SEO Domination**
+
+**Google My Business Optimization:**
+
+✅ **Complete Profile 100%:**
+- Business name: Granite Carpentry
+- Category: Countertop contractor, Cabinet maker
+- Phone: 0676014490
+- Website: granitecarpentry.co.za
+- Service areas: List all suburbs you serve
+- Business hours
+- Description (750 chars with keywords)
+
+✅ **Add Photos Weekly:**
+- Completed projects
+- Before/after shots
+- Team photos
+- Showroom images
+- Target: 100+ photos total
+
+✅ **Get Reviews:**
+- Ask every customer for Google review
+- Respond to all reviews within 24 hours
+- Target: 50+ reviews with 4.8+ rating
+
+✅ **GMB Posts:**
+- Post weekly updates
+- Share new projects
+- Promote special offers
+- Include your location page links
+
+---
+
+### **4. Backlink Building Strategy**
+
+**High-Priority Backlinks:**
+
+**Tier 1 - Easy Wins (Do This Week):**
+- [ ] Business directories (Snupit, Cylex, Hotfrog) - 3 hours
+- [ ] Industry directories (SA construction, home improvement) - 2 hours
+- [ ] Local citations (Yellow Pages SA, Brabys) - 1 hour
+- [ ] Social media profiles (Facebook, Instagram, LinkedIn) - 1 hour
+
+**Tier 2 - Medium Effort (Month 1):**
+- [ ] Guest posts on home improvement blogs - 4 hours
+- [ ] Supplier websites (ask Caesarstone/Silestone for listing) - 2 hours
+- [ ] Local business associations - 1 hour
+- [ ] Press releases (new service launches) - 2 hours
+
+**Tier 3 - Ongoing:**
+- [ ] Get featured in local news/blogs - Ongoing
+- [ ] Partner with interior designers (link exchange) - Ongoing
+- [ ] Sponsor local events (get website link) - Ongoing
+
+**Quality over Quantity:**
+- 10 high-quality backlinks > 100 low-quality links
+- Relevant sites (construction, home improvement) > random sites
+- Local SA sites > international sites
+
+---
+
+### **5. Content Refresh Strategy**
+
+**Every 3 Months:**
+- [ ] Update prices on all pages
+- [ ] Add new testimonials/projects
+- [ ] Check for broken links
+- [ ] Update "Last Updated" date
+- [ ] Add new FAQs based on customer questions
+- [ ] Resubmit to Google Search Console
+
+**Why This Works:**
+- Google favors fresh content
+- Updated date signals relevance
+- Improved content = better rankings
+
+---
+
+### **6. Conversion Rate Optimization (CRO)**
+
+Get more calls from existing traffic:
+
+✅ **Make Phone Number Prominent:**
+- Header (sticky on scroll)
+- First paragraph
+- Middle of content
+- Bottom of content
+- Contact form section
+
+✅ **Add Trust Signals:**
+- "24-month warranty"
+- "50+ projects completed"
+- "Licensed & insured"
+- "Free quotes"
+- Payment method logos
+
+✅ **Use Urgency:**
+- "Limited availability this month"
+- "Book now for same-week installation"
+- "Free consultation - call today"
+
+✅ **Reduce Friction:**
+- Click-to-call buttons on mobile
+- WhatsApp click-to-chat widget
+- Simple contact form (3-4 fields max)
+- No registration required for quote
+
+---
+
+### **7. Voice Search Optimization**
+
+People search differently with voice:
+
+**Typed:** "granite countertops sandton"  
+**Voice:** "where can I find granite countertops near me in Sandton?"
+
+**Optimize for Voice:**
+- Use conversational language
+- Answer questions naturally
+- Include location frequently
+- Use long-tail keywords
+- Add FAQ sections (voice results come from FAQs)
+
+**Target Voice Phrases:**
+- "best granite installers near me"
+- "how much does granite cost in Johannesburg"
+- "where to buy caesarstone in sandton"
+- "granite countertop companies near me"
+
+---
+
+### **8. Seasonal Content**
+
+Create time-sensitive content for traffic spikes:
+
+**December - January (Summer Holidays):**
+- Blog: "New Year Kitchen Renovation: Granite vs Quartz"
+- Offer: "Book in January, install in February - beat the rush"
+
+**March - May (Autumn Renovations):**
+- Blog: "Top 5 Granite Colors for Autumn 2025"
+- Offer: "Autumn renovation special - 10% off installation"
+
+**June - August (Winter):**
+- Blog: "Winter Kitchen Upgrades While You're Indoors"
+- Offer: "Winter installation special - we work rain or shine"
+
+**September - November (Spring Cleaning):**
+- Blog: "Spring Refresh: Transform Your Kitchen with New Countertops"
+- Offer: "Spring into action - free showroom consultations"
+
+---
+
+### **9. Video Content (YouTube SEO)**
+
+Videos rank in Google search results!
+
+**Create These Videos:**
+1. "Granite Countertops Installation Process - Johannesburg" (5 mins)
+2. "Granite vs Quartz: Which is Better?" (3 mins)
+3. "Tour Our Granite Showroom in Johannesburg" (4 mins)
+4. "Before & After Kitchen Transformations - Sandton" (2 mins)
+5. "How to Choose Granite Colors for Your Kitchen" (6 mins)
+
+**Optimization:**
+- Title with keywords: "Granite Countertops Installation Johannesburg | Full Process"
+- Description with website link and phone number
+- Tags: granite, countertops, johannesburg, caesarstone, etc.
+- Thumbnail with text overlay
+- Add to Google My Business profile
+
+**Benefits:**
+- Ranks on YouTube AND Google
+- Builds trust (people see your work)
+- Embeddable on website
+- Shareable on social media
+
+---
+
+### **10. Retargeting Strategy**
+
+Someone visits your site but doesn't call?
+
+**Facebook Pixel:**
+- Install on all pages
+- Create audience of site visitors
+- Run ads: "Still thinking about granite countertops? Call for free quote"
+- Target: 30-day website visitors
+- Budget: R50-100/day
+
+**Google Ads Remarketing:**
+- Create audience of site visitors
+- Show display ads across Google network
+- Message: "Granite Carpentry | Free Quote | 0676014490"
+- Target: 30-90 day website visitors
+
+---
+
+## 📊 TIER 5: GSC OPPORTUNITY PAGES {#tier-5}
+
+Based on your Google Search Console data showing impressions but no clicks:
+
+### **HIGH-PRIORITY OPPORTUNITY PAGES**
+
+These queries are getting impressions (people seeing you) but you're not ranking well enough to get clicks. Create pages to capture this traffic!
+
+---
+
+#### **1. `/granite-tops-johannesburg`** ⭐⭐⭐⭐⭐
+
+**GSC Data:** 4 impressions  
+**Current Ranking:** Not ranking (no clicks)  
+**Opportunity:** "Granite tops" is slightly different keyword than "granite countertops"
+
+**Strategy:**
+- Create dedicated page targeting "granite tops johannesburg"
+- Use "tops" instead of "countertops" throughout content
+- Include: "granite tops", "granite work tops", "granite worktops"
+- Link to from main page and other location pages
+
+**Content Focus:**
+- Target DIY market (they search "tops" not "countertops")
+- Emphasize variety of granite tops available
+- Include kitchen tops, bathroom tops, bar tops
+- Pricing per square metre (R1,500-R6,500/m²)
+
+---
+
+#### **2. `/cabinets-and-countertops-johannesburg`** ⭐⭐⭐⭐⭐
+
+**GSC Data:** 3 impressions  
+**Current Ranking:** Not ranking  
+**Opportunity:** Combo service searchers (full kitchen renovation)
+
+**Strategy:**
+- Create page offering BOTH cabinets AND countertops
+- Target customers doing full kitchen remodel
+- Higher ticket value (full kitchen = more revenue)
+
+**Content Structure:**
+```markdown
+# Kitchen Cabinets & Granite Countertops Johannesburg | Complete Solutions
+
+## Complete Kitchen Renovation Services
+- Custom kitchen cabinets
+- Granite & quartz countertops
+- Integrated sink installation
+- Full kitchen design and installation
+
+## Kitchen Cabinet Options
+- Melamine cabinets
+- Wood veneer cabinets
+- High-gloss finishes
+- Soft-close hinges
+
+## Matching Countertops
+- Granite countertops to match cabinet style
+- Quartz surfaces for modern kitchens
+- Coordinated color schemes
+
+## Complete Kitchen Packages
+**Budget Package:** R45,000 - R65,000
+- Standard cabinets + granite countertops
+
+**Premium Package:** R80,000 - R120,000
+- Custom cabinets + Caesarstone countertops
+
+**Luxury Package:** R150,000+
+- High-end cabinets + exotic granite
+```
+
+**Keywords to Target:**
+- cabinets and countertops johannesburg
+- kitchen cabinets with granite tops
+- complete kitchen renovation johannesburg
+- kitchen makeover johannesburg
+
+---
+
+#### **3. `/quality-quartz-and-granite`** ⭐⭐⭐⭐
+
+**GSC Data:** 2 impressions  
+**Current Ranking:** Not ranking  
+**Opportunity:** Quality-focused searchers (higher budget customers)
+
+**Strategy:**
+- Premium-focused page
+- Emphasize quality, durability, luxury
+- Higher-priced options
+- Target affluent areas
+
+**Content Angle:**
+```markdown
+# Quality Quartz & Granite Countertops | Premium Stone Installation
+
+## Why Quality Matters
+- A-grade vs B-grade granite differences
+- Certified quartz vs cheap alternatives
+- Lifetime investment in your home
+
+## Our Quality Standards
+- Only A-grade natural granite
+- Certified Caesarstone & Silestone
+- Professional fabrication
+- Expert installation
+- 24-month warranty
+
+## Quality Indicators
+✓ Consistent slab thickness (20mm or 30mm)
+✓ Smooth, polished finish
+✓ Proper sealing (granite)
+✓ Certified quartz brands only
+✓ Professional edge profiling
+✓ Precision cutting and fitting
+
+## Premium Materials We Offer
+[Focus on high-end options]
+- Exotic granite (Blue Bahia, Fusion)
+- Premium Caesarstone (Statuario Maximus)
+- Silestone with Microban protection
+```
+
+**Keywords:**
+- quality quartz and granite
+- best quality granite johannesburg
+- premium quartz countertops
+- high-end granite suppliers
+
+---
+
+#### **4. `/quartz-cutting-service-johannesburg`** ⭐⭐⭐⭐
+
+**GSC Data:** 1 impression  
+**Current Ranking:** Not ranking  
+**Opportunity:** Niche service - less competition!
+
+**Strategy:**
+- Specialized service page
+- Target DIYers, contractors, designers
+- Lower installation service, higher margin
+
+**Content Focus:**
+```markdown
+# Quartz Cutting Service Johannesburg | Professional Fabrication
+
+## Custom Quartz Cutting Services
+Do you need quartz cut to size but prefer to install yourself? We offer professional quartz cutting and fabrication services.
+
+## Services Offered
+- Precision CNC cutting
+- Custom edge profiles
+- Sink and cooktop cutouts
+- Backsplash fabrication
+- Polish and finishing
+
+## Pricing (Cutting Only, No Installation)
+- Straight cuts: R150/linear metre
+- Custom edge profiles: R250-R400/linear metre
+- Sink cutouts: R600 (no installation)
+- Cooktop cutouts: R800
+- Minimum charge: R1,500
+
+## Perfect For
+- DIY enthusiasts
+- Contractors with own installation teams
+- Designers with installers
+- Replacement pieces
+- Small projects
+
+## Process
+1. Bring your measurements or quartz slab
+2. We create template (if needed)
+3. Precision cutting in our facility
+4. You collect or we deliver (fee applies)
+5. Install yourself or hire your team
+
+**Note:** We also offer full installation services if you prefer professional installation.
+```
+
+**Keywords:**
+- quartz cutting service
+- granite cutting johannesburg
+- stone cutting service
+- fabrication only
+- cut to size quartz
+
+---
+
+#### **5. `/countertop-granite-installation`** ⭐⭐⭐⭐
+
+**GSC Data:** 1 impression  
+**Current Ranking:** Not ranking  
+**Opportunity:** Installation-focused page (different from product pages)
+
+**Strategy:**
+- Focus on INSTALLATION process and service
+- Target people who already have granite/bought granite
+- Target people specifically looking for installers
+
+**Content Structure:**
+```markdown
+# Countertop Granite Installation Johannesburg | Professional Installers
+
+## Expert Granite Installation Services
+Already purchased your granite? We provide professional installation services throughout Johannesburg.
+
+## Our Installation Process
+[Detailed 6-step process with timelines]
+
+## Installation-Only Services
+- Granite countertop installation
+- Quartz surface installation
+- Templating and measurement
+- Cutouts (sink, cooktop, faucets)
+- Sealing and finishing
+- Cleanup and debris removal
+
+## Installation Pricing
+- Standard installation: R800-R1,000/m²
+- Complex installation: R1,200-R1,500/m²
+- Island waterfall edges: R2,000-R2,500/m²
+- Backsplash installation: R600-R900/m²
+
+## Why Choose Our Installation Team
+✓ 15+ years installation experience
+✓ Digital templating for precision
+✓ CNC fabrication technology
+✓ Professional, insured team
+✓ Same-week installation available
+✓ 24-month workmanship warranty
+
+## Installation Areas We Service
+[List all suburbs]
+```
+
+**Keywords:**
+- countertop granite installation
+- granite installer johannesburg
+- professional granite installation
+- granite fitting service
+
+---
+
+#### **6. `/kitchen-countertop-installation-krugersdorp`** ⭐⭐⭐⭐
+
+**GSC Data:** 1 impression  
+**Current Ranking:** Not ranking  
+**Opportunity:** Specific location - Krugersdorp (west of Johannesburg)
+
+**Strategy:**
+- Create dedicated Krugersdorp page
+- Expand west of Johannesburg
+- Less competition in outlying areas
+
+**Content Focus:**
+```markdown
+# Kitchen Countertop Installation Krugersdorp | Granite & Quartz
+
+## Professional Countertop Installation in Krugersdorp
+Granite Carpentry extends our premium stone installation services to Krugersdorp and the West Rand.
+
+## Serving Krugersdorp Areas
+- Krugersdorp Central
+- Monument
+- Noordheuwel
+- Mindalore
+- Wilro Park
+- Tarlton
+
+## Our Krugersdorp Services
+[Standard service list]
+
+## Pricing for Krugersdorp Area
+[Standard pricing + note about travel]
+*Free consultations for Krugersdorp. Travel charges may apply for far West Rand areas.*
+
+## Recent Krugersdorp Projects
+[If you have any, or say "expanding services"]
+
+## Nearby Areas We Serve
+- Roodepoort
+- Randfontein
+- Westonaria
+- Kagiso
+```
+
+**Keywords:**
+- kitchen countertop installation krugersdorp
+- granite krugersdorp
+- quartz countertops west rand
+- countertops randfontein
+
+---
+
+### **TIER 5 PRIORITY ORDER**
+
+Create in this order based on opportunity + effort:
+
+1. **`/granite-tops-johannesburg`** (4 impressions, easy to rank)
+2. **`/cabinets-and-countertops-johannesburg`** (3 impressions, higher revenue)
+3. **`/countertop-granite-installation`** (service-focused, fills gap)
+4. **`/quality-quartz-and-granite`** (targets premium market)
+5. **`/kitchen-countertop-installation-krugersdorp`** (geographic expansion)
+6. **`/quartz-cutting-service-johannesburg`** (niche service, low competition)
+
+---
+
+### **BONUS: RELATED KEYWORDS FROM GSC**
+
+Based on "vika quartz and granite renovations" showing in your GSC:
+
+**Competitor Alert:**  
+Someone searched for your competitor "Vika Quartz and Granite". This means:
+- There's active search demand
+- Create comparison content
+- Target people comparing options
+
+**Create Blog Post:**
+```markdown
+# Choosing Granite & Quartz Installers in Johannesburg: What to Look For
+
+## Comparing Johannesburg Stone Installation Companies
+[Don't mention competitors by name, but compare features]
+
+### What to Look For:
+- Experience (10+ years vs new companies)
+- Warranty offered (24 months vs 6 months)
+- Installation process
+- Customer reviews
+- Portfolio of work
+- Pricing transparency
+
+### Why Granite Carpentry?
+[Your unique selling points]
+
+### Questions to Ask ANY Installer:
+1. How many years in business?
+2. Can I see recent project photos?
+3. What warranty do you offer?
+4. What's included in installation price?
+5. Do you have insurance?
+6. Can you provide references?
+```
+
+**Keywords to Target:**
+- best granite installers johannesburg
+- granite installation companies comparison
+- choosing quartz installer
+- granite carpentry vs competitors
+
+---
+
+## 🎯 TIER 5 ACTION PLAN
+
+### **Week 1:**
+- [ ] Create `/granite-tops-johannesburg` page (2,000 words)
+- [ ] Submit to GSC and ping services
+- [ ] Share on social media
+
+### **Week 2:**
+- [ ] Create `/cabinets-and-countertops-johannesburg` page
+- [ ] Add internal links from existing pages
+- [ ] Update main page with new service links
+
+### **Week 3:**
+- [ ] Create `/countertop-granite-installation` page
+- [ ] Create `/quality-quartz-and-granite` page
+- [ ] Check GSC for any ranking improvements
+
+### **Week 4:**
+- [ ] Create `/kitchen-countertop-installation-krugersdorp` page
+- [ ] Create `/quartz-cutting-service-johannesburg` page
+- [ ] Write comparison blog post (competitors)
+
+### **Month 2 Check:**
+- [ ] Which Tier 5 pages are getting impressions?
+- [ ] Any pages getting clicks yet?
+- [ ] Which should be prioritized/expanded?
+
+---
+
+## 📞 QUICK REFERENCE CHECKLIST
+
+**For Every New Page You Create:**
+
+**Before Writing:**
+- [ ] Keyword research done
+- [ ] Competitor analysis done
+- [ ] Unique angle identified
+- [ ] Word count target: 1,800-2,200
+
+**While Writing:**
+- [ ] Primary keyword in H1
+- [ ] Primary keyword in first 100 words
+- [ ] 6-8 H2 headers with keywords
+- [ ] Location mentioned 15-20 times
+- [ ] Phone number 3-4 times
+- [ ] 8-12 internal links
+- [ ] 2-3 external links
+- [ ] 5-8 optimized images with alt text
+
+**After Writing:**
+- [ ] Meta title (55-60 chars)
+- [ ] Meta description (150-160 chars)
+- [ ] Schema markup added
+- [ ] Mobile-friendly test passed
+- [ ] Page speed under 3 seconds
+- [ ] No spelling/grammar errors
+- [ ] Readability grade 8 or lower
+
+**After Publishing:**
+- [ ] Submit to Google Search Console
+- [ ] Request indexing
+- [ ] Submit to Bing
+- [ ] Share on Facebook (page + 2 groups)
+- [ ] Share on LinkedIn
+- [ ] Post on Twitter with hashtags
+- [ ] WhatsApp status + relevant groups
+- [ ] Add to sitemap
+
+**Weekly Monitoring:**
+- [ ] Check GSC for impressions/clicks
+- [ ] Check rankings (incognito search)
+- [ ] Track phone calls
+- [ ] Update underperforming pages
+- [ ] Respond to reviews
+
+---
+
+## 🏆 SUCCESS METRICS
+
+**Target Rankings by Month 3:**
+- Position 1-3: 2-3 keywords
+- Position 4-10: 5-8 keywords
+- Position 11-20: 10-15 keywords
+
+**Target Traffic by Month 3:**
+- 500-1,000 impressions/month
+- 50-100 clicks/month
+- 10-20 phone calls/month
+- 5-10 quotes given/month
+- 2-5 jobs booked/month
+
+**If You're Not Hitting Targets:**
+1. Check competition - are they stronger?
+2. Review content - is it comprehensive enough?
+3. Check technical SEO - any errors?
+4. Build more backlinks
+5. Refresh content with updates
+6. Create more supporting blog content
+
+---
+
+**You've got this! Follow this guide step-by-step and you'll dominate granite & quartz rankings in Johannesburg just like you did with drywall! 🚀💪**
+
+**Questions? Need help? Review this markdown guide and execute page by page. Track everything in GSC. Double down on what works!**
+
+**Let's get that granite & quartz page from position 40 to TOP 3! 🏆**
